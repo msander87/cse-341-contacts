@@ -10,4 +10,12 @@ http://localhost:3000/contacts/650c5812c06bc031e32200a1
 
 
 
-//
+//From Render
+### Get home
+https://cse-341-contacts.onrender.com/
+
+### Get all contacts
+https://cse-341-contacts.onrender.com/contacts/
+
+### Get single contact
+https://cse-341-contacts.onrender.com/contacts/6338cf4fc51624e0408341bc
